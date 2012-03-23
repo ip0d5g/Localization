@@ -53,11 +53,11 @@
 	"BACKGROUND_STYLE_NONE" = "שקוף";
 	"BACKGROUND_STYLE_IMAGE" = "עיצוב";
 	
-	"ABOUT_COPYRIGHT" = "ProSwitcher הינו בזכויות יוצרים של Ryan Petrich ו Grant Paul ותחת רישיון GNU LGPL תורגם ע"י אלי יעבץ © 2009-2011.";
+	"ABOUT_COPYRIGHT" = "ProSwitcher הינו בזכויות יוצרים של Ryan Petrich ו Grant Paul ותחת רישיון GNU LGPL .";
 	
 	"NO_APPS_RUNNING" = "אין אפליקציות פועלות";
 	
 	WELCOME_TITLE = "ברוך הבא אל ProSwitcher";
-	WELCOME_MESSAGE = "כדי לשנות הגדרות או להגדיר מחוות , הכנס אל אפליקצית ההגדרות.\n\nProSwitcher הינו בזכויות יוצרים של Ryan Petrich ו Grant Paul ותחת רישיון GNU LGPL תורגם ע"י אלי יעבץ © 2009-2011";
+	WELCOME_MESSAGE = "כדי לשנות הגדרות או להגדיר מחוות , הכנס אל אפליקצית ההגדרות.\n\nProSwitcher הינו בזכויות יוצרים של Ryan Petrich ו Grant Paul ותחת רישיון GNU LGPL ";
 	WELCOME_CONTINUE_BUTTON = "המשך";
 }
